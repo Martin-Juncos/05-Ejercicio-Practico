@@ -1,0 +1,59 @@
+/* ======================
+   ENCABEZADO
+   ====================== */
+
+.encabezado {
+  /* Aplicar fondo oscuro, color de texto blanco y centrado */
+}
+
+.titulo-principal::before {
+  /* Agregar pseudoelemento con ícono o símbolo antes del título */
+}
+
+/* ======================
+     NAVEGACIÓN
+     ====================== */
+
+.menu {
+  /* Usar display flex, alinear horizontalmente y separar elementos */
+}
+
+.menu li + li a {
+  /* Agregar separación izquierda entre enlaces */
+}
+
+.menu a:hover {
+  /* Cambiar color o fondo al pasar el mouse por encima */
+}
+
+/* ======================
+     CONTENIDO
+     ====================== */
+
+.contenido {
+  /* Aplicar display flex en columna y centrar elementos */
+}
+
+.tarjeta {
+  /* Usar border, padding y background. Aplicar display inline-block */
+}
+
+.tarjeta:first-child {
+  /* Aplicar estilo especial solo al primer artículo */
+}
+
+/* ======================
+     PIE DE PÁGINA
+     ====================== */
+
+.pie {
+  /* Centrar el texto y aplicar color gris oscuro */
+}
+
+/* ======================
+     POSICIONAMIENTO
+     ====================== */
+
+.pie {
+  /* Fijar el footer al fondo usando position: fixed (opcional) */
+}
